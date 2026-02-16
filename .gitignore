@@ -1,22 +1,18 @@
-﻿# Virtual env
+﻿# venv
 .venv/
 venv/
+.env/
+
+# python junk
 __pycache__/
 *.pyc
-
-# OS/editor
-.DS_Store
-Thumbs.db
-.vscode/
 .ipynb_checkpoints/
 
-# Outputs/artifacts
+# outputs / runs
 results/
-*.pt
-*.pth
-*.ckpt
-*.pkl
-*.joblib
-
-# Logs
 *.log
+
+# OS / editor
+.vscode/
+.DS_Store
+Thumbs.db
