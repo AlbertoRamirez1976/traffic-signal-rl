@@ -1,0 +1,11 @@
+{
+  "name": "single_intersection",
+  "type": "single",
+  "dt": 1.0,
+  "min_green": 5,
+  "yellow": 2,
+  "episode_horizon": 600,
+  "arrival_rate_ns": 0.35,
+  "arrival_rate_ew": 0.25,
+  "service_rate": 1.2
+}

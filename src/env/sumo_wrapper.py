@@ -1,0 +1,1 @@
+"""Optional SUMO wrapper stub (implement later if desired)."""

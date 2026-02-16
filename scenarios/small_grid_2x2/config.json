@@ -1,0 +1,15 @@
+{
+  "name": "small_grid_2x2",
+  "type": "grid",
+  "grid_size": [
+    2,
+    2
+  ],
+  "dt": 1.0,
+  "min_green": 5,
+  "yellow": 2,
+  "episode_horizon": 600,
+  "arrival_rate": 0.25,
+  "turn_prob": 0.15,
+  "service_rate": 1.0
+}
